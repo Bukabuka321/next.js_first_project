@@ -10,7 +10,7 @@ const Index = () => {
         <title>Test web app | Home</title>
         <meta name="title" content="Bullshit"/>
       </Head>
-      <h1 className={`${styles.title} font-effect-fire-animation`}>Хуй говно дрочилово адское какашка головка от хуя</h1> 
+      <h1 className={`${styles.title} font-effect-fire-animation`}>Products and burgers</h1> 
       <div className={styles.mainImage}>
         <Image src="/Unknown.jpeg" alt="bear" width={500} height={300} />
       </div>
